@@ -1,1 +1,3 @@
-# udacity-deep-learning-tut
+# Udacity Deep Learning Course using TensorFlow
+
+Classification of notMNIST using Deep Learning
